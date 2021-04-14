@@ -14,7 +14,7 @@ import ipaddress
 import time
 start = time.time()
 #####YOUR_SHODAN_API_KEY###################
-api_key="UPmNGzp5HfQwsNY5BFCIuPLFUSPAa5E6"
+api_key="Your_Api_Key"
 ####YOUR_SHODAN_API_KEY####################
 try:
     parser = argparse.ArgumentParser()
